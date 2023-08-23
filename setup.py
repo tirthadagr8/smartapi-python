@@ -18,7 +18,7 @@ setup(
     description="Angel Broking openApi integration",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/angelbroking-github/smartapi-python",
+    url="https://github.com/tirthadagr8/smartapi-python",
     packages=["smartapi"],
     install_requires=requirements,
     classifiers=[
