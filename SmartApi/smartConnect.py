@@ -45,6 +45,7 @@ class SmartConnect(object):
         "api.gtt.list":"/rest/secure/angelbroking/gtt/v1/ruleList",
 
         "api.candle.data":"/rest/secure/angelbroking/historical/v1/getCandleData"
+        "api.market.data":"/rest/secure/angelbroking/market/v1/quote"
     }
 
 
