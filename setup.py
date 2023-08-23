@@ -11,7 +11,7 @@ requirements = [
     ]
 
 setup(
-    name="smartapi-python",
+    name="smartapi-python_t2",
     version="1.2.9",
     author="ab-smartapi",
     author_email="smartapi.sdk@gmail.com",
